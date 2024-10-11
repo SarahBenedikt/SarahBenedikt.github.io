@@ -66,5 +66,5 @@ Evaluate your progress monthly. Check your speaking, listening, reading, and wri
 ## Stay positive, stay motivated
 Remember your **why** —it’s the main driver of your learning project. Celebrate milestones, no matter how small, and reward yourself when you achieve them. Joining language groups or connecting with other learners can also keep you motivated.
 
-## Clonclusion
+## Conclusion
 Learning Spanish is not just about mastering vocabulary and grammar—it's about building connections, exploring a new culture, and feeling at home in your environment. By setting clear goals, choosing the right resources, staying consistent, and celebrating your progress, you can stay on track and make the most of this exciting journey. Stay patient, stay curious, and enjoy the adventure of learning a new language!
