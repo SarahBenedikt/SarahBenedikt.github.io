@@ -33,7 +33,7 @@ Example of an `<h1>` element:
 
 ## Paragraph Elements
 Paragraphs are used to separate text into readable blocks. They follow the same structure as heading elements.
-```
+```html
 <p>My Paragraph</p>
 ```
 
@@ -44,17 +44,17 @@ So far we covered Non-Void elements which have two tags and content. However, Vo
 ### Horizontal Rule (`<hr>`)
 
 Adds a horizontal line to separate sections:
-```
+```html
 <p>Paragraph 1</p>
 <hr>
 <p>Paragraph 2</p>
 ```
 
 
-### Line Break
+### Line Break (`<br>`)
 
 Creates a new line within a paragraph:
-```
+```html
 <p>Paragraph 1</p>
 <br>
 <p>Paragraph 2</p>
@@ -67,7 +67,7 @@ HTML supports two types of lists:
 
 1. **Unordered Lists** (bulleted):
 
-```
+```html
 <ul>
     <li>Notebook</li>
     <li>Keyboard</li>
@@ -77,7 +77,7 @@ HTML supports two types of lists:
 ```
 2. **Ordered Lists** (numbered):
 
-```
+```html
 <ol>
     <li>Boil Water</li>
     <li>Add Salt</li>
@@ -92,7 +92,7 @@ HTML supports two types of lists:
 
 Lists can be nested inside one another for more complex structures. Ensure proper indentation for readability.
 
-```
+```html
 <ul>
     <li>A</li>
         <ol>
@@ -108,7 +108,7 @@ Lists can be nested inside one another for more complex structures. Ensure prope
 
 Anchor elements (`<a>`) are hyperlinks that link to other pages or resources. The link address is defined in the attribute section. 
 
-```
+```html
 <a href="https://www.google.com">Thats a Goole Link</a>
 ```
 There are a bunch of attributes that you can add to HTML elements. They are added in he opening tag like this:
@@ -124,7 +124,7 @@ Images are added using the `<img>` element, a void element.
 - `src` **Source Attribute** The image source URL.
 - `alt` **Alt Attribute** Alternative text describing the image for accessibility.
 
-```
+```html
 <img src="https://picsum.photos/200" alt="Image Description"/>
 ```
 
