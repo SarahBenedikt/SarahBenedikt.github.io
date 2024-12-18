@@ -2,7 +2,7 @@
 layout: post
 title:  "How to build the Breakout Game using Pygame"
 date:   2024-10-10 20:10:57 -0600
-categories: coding games
+categories: coding games python
 ---
 I rebuild a real classics of Videogames - Breakout. You can find the final version on my [GitHub](https://github.com/SarahBenedikt/Breakout). I will explain the process of building on this page.
 

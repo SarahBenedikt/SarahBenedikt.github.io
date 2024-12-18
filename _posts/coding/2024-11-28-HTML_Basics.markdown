@@ -129,3 +129,50 @@ Images are added using the `<img>` element, a void element.
 ```
 
 > 💡 **Tip:** Always include `alt`text for better accessibility and SEO. 
+
+## HTML Boilerplate
+
+When starting with an HTML file, a standard structure, known as the boilerplate, ensures your document is correctly formatted and functional. Below is an explanation of the key components:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A beginner's guide to HTML boilerplate.">
+    <title>HTML Boilerplate</title>
+</head>
+<body>
+    <h1>Welcome to HTML!</h1>
+    <p>This is a basic HTML boilerplate template.</p>
+</body>
+</html>
+```
+
+### Key Components:
+
+- `<!DOCTYPE html>`
+Declares the document type as HTML5.
+Must be at the top of every HTML file.
+
+- `<html lang="en">`
+Defines the root of the HTML document.
+The lang attribute specifies the language for screen readers and search engines.
+
+- `<head>`
+Contains metadata (information about the webpage, not displayed on the page itself).
+Includes tags like `<meta>`, `<title>`, and links to stylesheets or scripts.
+
+- `<meta charset="UTF-8">`
+Sets the character encoding to UTF-8, supporting most characters and symbols.
+
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+Ensures the page is mobile-friendly by controlling its layout on different screen sizes.
+
+- `<title>`
+Sets the title of the webpage (shown in the browser tab).
+
+- `<body>`
+Contains the visible content of the webpage.
+Where you add text, images, links, and other elements.
