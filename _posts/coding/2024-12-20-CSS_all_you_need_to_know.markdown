@@ -198,6 +198,11 @@ div {
 ## Responsive Design
 
 - **Flexbox:**
+Flexbox is used to define an overall page structure for one dimensiones layouts.
+
+Per default the `flex-direction` is set to `row`. This means the main-axis is aligned horizontal from left to right and new items get added on the right side and until the row is full. If you set `flex-direction`to `column`, the main-axis turns from top to bottom.
+
+**[Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 
 ```css
 .container {
@@ -216,6 +221,11 @@ div {
 ```
 
 - **Grid:**
+
+Grid is used to define an overall page structure for two dimensiones layouts.
+You can combine Flexbox and Grid.
+
+**[Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/)**
 
 ```css
 .grid {
