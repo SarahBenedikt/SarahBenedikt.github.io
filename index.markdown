@@ -7,7 +7,6 @@ list_title: Read My Latest Posts
 title: ''
 ---
 
-Welcome to my digital garden! Here, I’ll be sharing my journey through sailing, coding, language learning, and more. Join me as I explore new adventures and share insights along the way!
+Willkommen, ¡Bienvenidos, Welcome to my digital garden! This is where I document my journey as a sailor and coder, sharing my experiences and lessons learned. I dive into topics like sailing, coding, and personal growth, offering the insights I discover along the way.
 
-You can find Sailing insights and learnings
-[here](https://www.instagram.com/simple_sailing/).
+You can find short sailing insights on [SimpleSailing](https://www.instagram.com/simple_sailing/).

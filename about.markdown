@@ -16,3 +16,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+# Why do I maintain this garden?
+
+Mostly for selfish reasons! I needed a way to track my growth as a sailor, coder, and human being, including whatever I'm thinking about or working on. I explore topics that interest me and document my findings in public blog posts for easy reference later. Hopefully, others will find these posts helpful, relevant, or interesting too. I believe digital gardens thrive on two-way conversations. I'll link my Discord, LinkedIn, and Instagram below.

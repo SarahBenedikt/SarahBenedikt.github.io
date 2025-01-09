@@ -1,20 +1,32 @@
 .site-title {
     color: #1e3851;
-    &:visited {
-      color: #1e3851;
+    font-size: 2.5rem;
+    font-weight: 410;
+    letter-spacing: 2px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
     }
-  }
-
+    
 body {
   background-color: #fffff8;
+  color: #1e3851;
   font-family: "Roboto", sans-serif;
-  width: 87.5%;
+  font-size: 1.2rem;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 12.5%;
   color: #111;
 }
 
 .site-header {
   border-top: none; /* Removes the black line */
+}
+
+.site-nav {
+  font-size: 1.3rem;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
