@@ -2,7 +2,7 @@
 layout: post
 title:  "Navigating New Languages: A Guide to learn Spanish"
 date:   2024-09-30 11:24:57 -0600
-categories: language spanish
+categories: language spanish growth
 ---
 Learning a new language is like embarking on an exciting journey—full of challenges, discoveries, and opportunities. Since moving to Guadalajara, I've realized how essential it is to communicate in Spanish. Whether it’s ordering delicious street food, making new friends, or immersing myself in the vibrant culture, mastering the language opens up a whole new world. But at the beginning, it can feel overwhelming—people speak fast, and cultural norms that seem obvious to locals can be hard to grasp.
 
